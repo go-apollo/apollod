@@ -1,2 +1,2 @@
-# apollod
+# go-apollo
 ctrip apollo golang impls.
