@@ -1,2 +1,2 @@
-# go-apollo
-ctrip apollo golang impls.
+# go-apollod
+ctrip apollo server golang impls.
